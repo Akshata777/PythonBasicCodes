@@ -80,7 +80,7 @@ def multi_num():
     for i in range(1, 11):
         multiply = num*i
         print(multiply)
-multi_num()
+#multi_num()
 
 
     
